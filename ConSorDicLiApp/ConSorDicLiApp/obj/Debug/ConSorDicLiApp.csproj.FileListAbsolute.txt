@@ -1,0 +1,7 @@
+E:\FrontEND\DotNetConsole\ConSorDicLiApp\ConSorDicLiApp\obj\Debug\ConSorDicLiApp.csprojAssemblyReference.cache
+E:\FrontEND\DotNetConsole\ConSorDicLiApp\ConSorDicLiApp\obj\Debug\ConSorDicLiApp.csproj.CoreCompileInputs.cache
+E:\FrontEND\DotNetConsole\ConSorDicLiApp\ConSorDicLiApp\bin\Debug\ConSorDicLiApp.exe.config
+E:\FrontEND\DotNetConsole\ConSorDicLiApp\ConSorDicLiApp\bin\Debug\ConSorDicLiApp.exe
+E:\FrontEND\DotNetConsole\ConSorDicLiApp\ConSorDicLiApp\bin\Debug\ConSorDicLiApp.pdb
+E:\FrontEND\DotNetConsole\ConSorDicLiApp\ConSorDicLiApp\obj\Debug\ConSorDicLiApp.exe
+E:\FrontEND\DotNetConsole\ConSorDicLiApp\ConSorDicLiApp\obj\Debug\ConSorDicLiApp.pdb

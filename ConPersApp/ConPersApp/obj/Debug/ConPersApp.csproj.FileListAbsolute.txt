@@ -1,0 +1,7 @@
+E:\FrontEND\DotNetConsole\ConPersApp\ConPersApp\bin\Debug\ConPersApp.exe.config
+E:\FrontEND\DotNetConsole\ConPersApp\ConPersApp\bin\Debug\ConPersApp.exe
+E:\FrontEND\DotNetConsole\ConPersApp\ConPersApp\bin\Debug\ConPersApp.pdb
+E:\FrontEND\DotNetConsole\ConPersApp\ConPersApp\obj\Debug\ConPersApp.csprojAssemblyReference.cache
+E:\FrontEND\DotNetConsole\ConPersApp\ConPersApp\obj\Debug\ConPersApp.csproj.CoreCompileInputs.cache
+E:\FrontEND\DotNetConsole\ConPersApp\ConPersApp\obj\Debug\ConPersApp.exe
+E:\FrontEND\DotNetConsole\ConPersApp\ConPersApp\obj\Debug\ConPersApp.pdb

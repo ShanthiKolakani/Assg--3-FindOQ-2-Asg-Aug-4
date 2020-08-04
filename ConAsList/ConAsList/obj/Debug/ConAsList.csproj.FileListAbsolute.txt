@@ -1,0 +1,7 @@
+E:\FrontEND\DotNetConsole\ConAsList\ConAsList\bin\Debug\ConAsList.exe.config
+E:\FrontEND\DotNetConsole\ConAsList\ConAsList\bin\Debug\ConAsList.exe
+E:\FrontEND\DotNetConsole\ConAsList\ConAsList\bin\Debug\ConAsList.pdb
+E:\FrontEND\DotNetConsole\ConAsList\ConAsList\obj\Debug\ConAsList.csprojAssemblyReference.cache
+E:\FrontEND\DotNetConsole\ConAsList\ConAsList\obj\Debug\ConAsList.csproj.CoreCompileInputs.cache
+E:\FrontEND\DotNetConsole\ConAsList\ConAsList\obj\Debug\ConAsList.exe
+E:\FrontEND\DotNetConsole\ConAsList\ConAsList\obj\Debug\ConAsList.pdb
